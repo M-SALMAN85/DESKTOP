@@ -1,4 +1,4 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 let hello = ("Hello World");
-console.log(hello);
+let yes = ("how are you world");
+console.log(hello + ' ' + yes);
+export {};
